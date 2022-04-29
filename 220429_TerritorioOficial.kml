@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Favelas/Bairro/setores_censitario</name>
+    <Style id="icon-1603-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-1200-77-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-B2EBF2-4101-25-normal">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>4.101</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>19f2ebb2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-B2EBF2-4101-25-highlight">
+      <LineStyle>
+        <color>fff2ebb2</color>
+        <width>6.1515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>19f2ebb2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-B2EBF2-4101-25">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-B2EBF2-4101-25-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-B2EBF2-4101-25-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Bairro Manguinhos </name>
+      <description><![CDATA[Fonte: Decreto Municipal 7.980/1988<br>Descritores: Da confluência do Canal do Cunha com a Avenida Brasil seguindo por esta (incluída) até o Ramal de Minérios de Arará; por este (incluído) até o entroncamento com o Ramal Leopoldina da RFFSA; seguindo pelo leito deste, até o cruzamento com o Rio Jacaré; pelo leito deste até a Avenida Suburbana; por esta (excluída) até a Rua José Rubino; por esta (excluída) até a Avenida dos Democráticos; por esta (incluído apenas o lado par) até a Rua Capitão Bragança; por esta (incluída, incluindo a Rua Hespéria), atravessando a Rua Uranos, até o Ramal Leopoldina da RFFSA; pelo leito deste, até o prolongamento do alinhamento da Rua Eurico Souza Leão; por este e pela Rua Eurico Souza Leão - (incluída); Avenida Novo Rio (incluído apenas o lado ímpar) até a Avenida Brasil; por esta (incluído apenas o lado ímpar, incluindo o Viaduto de Manguinhos) até o ponto de partida.]]></description>
+      <styleUrl>#poly-B2EBF2-4101-25</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.2393137,-22.8799376,0
+              -43.239484,-22.8801625,0
+              -43.244666,-22.8730787,0
+              -43.2446124,-22.8725499,0
+              -43.2446124,-22.8724214,0
+              -43.2447518,-22.8720506,0
+              -43.24478,-22.8716935,0
+              -43.2447331,-22.8713241,0
+              -43.2446794,-22.8709398,0
+              -43.2445882,-22.8705579,0
+              -43.2445423,-22.8704658,0
+              -43.2444963,-22.8703738,0
+              -43.2443508,-22.8702144,0
+              -43.2440169,-22.8699549,0
+              -43.2441885,-22.869604,0
+              -43.2444098,-22.8696782,0
+              -43.2445365,-22.8697128,0
+              -43.2446499,-22.8697424,0
+              -43.2448417,-22.8697424,0
+              -43.2450335,-22.8697276,0
+              -43.2454331,-22.8696954,0
+              -43.2458246,-22.8696621,0
+              -43.2462163,-22.8696065,0
+              -43.2464248,-22.8695336,0
+              -43.2466146,-22.8694187,0
+              -43.2467775,-22.8692457,0
+              -43.2468386,-22.8690653,0
+              -43.247096,-22.8691394,0
+              -43.2469552,-22.8695688,0
+              -43.246793,-22.8699834,0
+              -43.2465932,-22.8703831,0
+              -43.246388,-22.8707779,0
+              -43.2473186,-22.871287,0
+              -43.2472194,-22.8714476,0
+              -43.2474246,-22.8715329,0
+              -43.2476352,-22.8715984,0
+              -43.2486866,-22.8717961,0
+              -43.2504246,-22.8720482,0
+              -43.2518622,-22.8724807,0
+              -43.2525838,-22.8727266,0
+              -43.2533966,-22.8730318,0
+              -43.2526891,-22.8748642,0
+              -43.2546922,-22.8761296,0
+              -43.2549121,-22.8758435,0
+              -43.2549563,-22.8758726,0
+              -43.2547437,-22.8761598,0
+              -43.2562081,-22.8770742,0
+              -43.2561405,-22.8771414,0
+              -43.2560783,-22.8772012,0
+              -43.2559646,-22.8773307,0
+              -43.2557586,-22.8775897,0
+              -43.2556583,-22.8777167,0
+              -43.255574,-22.8778586,0
+              -43.2554163,-22.8781374,0
+              -43.2551095,-22.8786792,0
+              -43.254952,-22.8789452,0
+              -43.2547302,-22.8791617,0
+              -43.2567392,-22.8812746,0
+              -43.2564781,-22.8813713,0
+              -43.2562088,-22.8814736,0
+              -43.2559333,-22.8816107,0
+              -43.2556946,-22.8817663,0
+              -43.2554572,-22.8819278,0
+              -43.2553338,-22.8820117,0
+              -43.2552118,-22.8820993,0
+              -43.2549855,-22.8822639,0
+              -43.2547706,-22.8824446,0
+              -43.2539816,-22.883354,0
+              -43.2536086,-22.8838285,0
+              -43.2534127,-22.8840657,0
+              -43.253222,-22.8842955,0
+              -43.2527185,-22.883872,0
+              -43.2522418,-22.8834238,0
+              -43.2519636,-22.883239,0
+              -43.2516641,-22.8831012,0
+              -43.2510461,-22.8829071,0
+              -43.24988,-22.882336,0
+              -43.2487027,-22.8855372,0
+              -43.2475976,-22.8887335,0
+              -43.2467392,-22.888626,0
+              -43.2458729,-22.888526,0
+              -43.2450964,-22.8884395,0
+              -43.2442877,-22.888348,0
+              -43.2434438,-22.8884169,0
+              -43.2425946,-22.8885204,0
+              -43.2408666,-22.8887644,0
+              -43.2400254,-22.8888889,0
+              -43.2396021,-22.8889165,0
+              -43.2391788,-22.8889343,0
+              -43.2387502,-22.8889236,0
+              -43.2383215,-22.8888734,0
+              -43.2379009,-22.8887911,0
+              -43.2374857,-22.8886643,0
+              -43.2369586,-22.8884586,0
+              -43.2364638,-22.8881837,0
+              -43.2354741,-22.8876043,0
+              -43.2334678,-22.88648,0
+              -43.2350088,-22.8849195,0
+              -43.2365283,-22.8832947,0
+              -43.2380102,-22.8816773,0
+              -43.2393137,-22.8799376,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores Parque Oswaldo Cruz - Morro do Amorim</name>
+      <description><![CDATA[Contato: Simone Quintella, Parque Oswaldo Cruz (21 964691035)<br><br>Orientação inicial: incluir endereço e contatos (telefone, e-mail, rede social, etc.); <br><br>Presidente: <nome> - <e-mail><br><br>Vice-President:: <nome> - <e-mail><br><br>Endereço: <endereco><br>Contatos: <telefone> - <e-mail><br>Rede Social:<br>Dias de Funcionamento: <diassemana><br>Horário de Atendimento: <hinicio> - <hfinal><br><br>INCLUIR FOTOS<br>PAINEL INDICADORES POR PERSPECTIVA<br>Incluir no painel questão de estoque e logística<br>Equipe<br>Relação trabalho/trabalhador<br>Desfechos<br><br>Método: <br>Primeiro fazer o que tem interesse para expor como exemplo (ex.: Simone e Chico Samora).<br><br>Coleta:<br>- utilizar prioritariamento bases oficiais e depois questionários com preenchimento orientado e senha de acesso pelo responsável  https://questionario.fiocruz.br<br>- Estimular e financiar curso de audiovisual para interessados de Manguinhos conceber, roteirzar e desenvolver materiais (certificado, bolsa e produção).<br>Fonte: Censo Escolar INEP 2020; Google Maps/ ???<br>Disponível em:<br>Acesso em:<br>Periodicidade da atualização<br>Fonte: Morador-Bolsista  Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.2488758,-22.8752322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos do Conjunto Habitacional Samora Machel </name>
+      <description><![CDATA[Francisco, Samora Machel (21 999888165);<br><br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.24881,-22.88409,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos Parque Carlos Chagas </name>
+      <description><![CDATA[Contatos: Colegiado Temporário até eleição - Jaqueline (99061-1923), Chico (99988-8165) e Márcio Silva - Aluguel social (99716-0815).<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.2479628,-22.8813714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos João Goulart </name>
+      <description><![CDATA[Contatos: Diego da Silva (21 97646-1194); Rita (98922-2606)<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.25169,-22.87949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos Vila Turismo</name>
+      <description><![CDATA[Contato: Marta (97950-2204)<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.25367,-22.87711,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos do Conjunto dos Ex-Combatentes, Vila União e Vila Tiradentes </name>
+      <description><![CDATA[Contatos: Figueiredo ( ); Renata (96674-4194)<br>A primeira que comentou que tem parceria com o Governo do Estado, com SEPERJ: Jiu-Jitsu, Zumba, Ginástica para terceira idade. <br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.25172,-22.88375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos do Conjunto Habitacional Provisório II - CHPII </name>
+      <description><![CDATA[Contato: Bismark Climério ( )<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.25327,-22.88382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos da Comunidade Agrícola de Higienópolis</name>
+      <description><![CDATA[Contato: ocorreu mudança - Falta visitar.<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.2565191,-22.8719056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos da Vila São Pedro </name>
+      <description><![CDATA[Contato: mudou - falta visitar<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.25589,-22.87123,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos do Conjunto Habitacional Nelson Mandela </name>
+      <description><![CDATA[Contato: Jaqueline de Paula (99061-1923)<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.24667,-22.88218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos do Conjunto Habitacional DESUP </name>
+      <description><![CDATA[Contato: Diego (97264-8528); Rafaela Cristine (96631-2023)<br>É o mesmo endereço de todo complexo do PAC.<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.248883,-22.887204,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos do Conjunto Habitacional Nova Embratel </name>
+      <description><![CDATA[Contato: Marcio Silva, Embratel e Vila Vitória de Manguinhos - Aluguel social (99716-0815).<br><br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.2484,-22.88513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos de Vila Vitória de Manguinhos </name>
+      <description><![CDATA[Contato: Marcio Silva, Embratel e Vila Vitória de Manguinhos - Aluguel social (99716-0815).<br><br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.24749,-22.88741,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Associação de Moradores e Amigos do Conjunto Habitacional Nova CCPL </name>
+      <description><![CDATA[Contatos: Luiz (96443-5201)<br>Sede localizada embaixo do viaduto.<br>Fonte: Morador-Bolsista Luiz Soares]]></description>
+      <styleUrl>#icon-1603-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -43.24812,-22.88993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espaço Vazio - Fiocruz
+</name>
+      <description><![CDATA[Status: quando da visita ao espaço (28/03/2022), moradores informaram que o espaço já está vazio há muitos anos e está sob a gestão da Fiocruz, com a justificativa de criar um estacionamento de ônibus e caminhão, mas parece que o local tem uma nascente de água.<br><br>Ação: enviada mensagem sApp para Chefe de Gabinete da Presidência da Fiocruz (Juliano), perguntando se o terreno está sob a gestão da Fiocruz e quem é a pessoa de contato.]]></description>
+      <styleUrl>#icon-1899-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -43.251991,-22.8750976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espaço Vazio - Fiocruz
+</name>
+      <description><![CDATA[Status: quando da visita ao espaço (28/03/2022), moradores informaram que o espaço já está vazio há muitos anos e está sob a gestão da Fiocruz, com a justificativa de criar um estacionamento de ônibus e caminhão, mas parece que o local tem uma nascente de água.<br><br>Ação: enviada mensagem sApp para Chefe de Gabinete da Presidência da Fiocruz (Juliano), perguntando se o terreno está sob a gestão da Fiocruz e quem é a pessoa de contato.]]></description>
+      <styleUrl>#poly-000000-1200-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.2520708,-22.8748079,0
+              -43.2522371,-22.8749154,0
+              -43.2519595,-22.8755975,0
+              -43.2518086,-22.8754937,0
+              -43.251651,-22.8753751,0
+              -43.2520708,-22.8748079,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Espaço Vazio
+</name>
+      <description><![CDATA[Visita realizada para inicialmente ser alternativa para construção da UBS.<br><br>Luiz comentou necessidade de identificar local no território para acomodar o CRAS Caio Fernando Abreu]]></description>
+      <styleUrl>#poly-000000-1200-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -43.2549851,-22.8756674,0
+              -43.2548778,-22.8758033,0
+              -43.2543601,-22.875487,0
+              -43.2544647,-22.8753486,0
+              -43.2549851,-22.8756674,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
